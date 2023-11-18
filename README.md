@@ -26,9 +26,10 @@ No 3º:
 
 1. Certifique de ter o Java 17 instalado e configurado.
 2. Clone esse repositório na sua máquina:
-
-   `` bash
-      git clone https://github.com/CsBryan0/exceptions-java.git
+ 
+  ```bash
+     git clone https://github.com/CsBryan0/task-manager.git
+  ```
 
 3. Vá até o diretório raiz do projeto.
 4. Abra o projeto em sua IDE de preferência e rode o projeto (para desenvolver utilizei o Eclipse IDE).
